@@ -15,14 +15,14 @@ $ opkg update && opkg install nodejs npm
 
 **Node Packages**
 ```
-$ npm install --save johnny-five omega2-io
+$ npm install --save johnny-five omega2-io-pro
 ```
 
 
 ## Usage
 
 ``` js
-var Omega2 = require('omega2-io');
+var Omega2 = require('omega2-io-pro');
 var board = new Omega2();
 
 board.on('ready', function () {
@@ -37,7 +37,7 @@ board.on('ready', function () {
 With Johnny-Five
 ``` js
 var five = require('johnny-five');
-var Omega2 = require('omega2-io');
+var Omega2 = require('omega2-io-pro');
 
 var board = new five.Board({
   io: new Omega2()
