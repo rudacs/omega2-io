@@ -1,32 +1,32 @@
 {
-  "name": "omega2-io-pro",
-  "version": "1.0.0",
-  "description": "Onion Omega2 & Omega2+ IO Plugin for Johnny-Five",
-  "main": "lib/omega2",
-  "scripts": {
-    "test": ""
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rudacs/omega2-io-pro"
-  },
-  "keywords": [
-    "firmata",
-    "omega2",
-    "omega",
-    "onion",
-    "johnny-five"
-  ],
-  "author": "Rudá Cunha <ruda@ruda.com.br>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rudacs/omega2-io-pro/issues"
-  },
-  "homepage": "https://github.com/rudacs/omega2-io-pro",
-  "optionalDependencies": {
-    "bluebird": "^3.4.7"
-  },
-  "devDependencies": {
-    "johnny-five": "^0.10.6"
-  }
+	"name": "omega2-io-pro",
+	"version": "1.0.1",
+	"description": "Onion Omega2 & Omega2+ IO Plugin for Johnny-Five",
+	"main": "lib/omega2",
+	"scripts": {
+		"test": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rudacs/omega2-io-pro"
+	},
+	"keywords": [
+		"firmata",
+		"omega2",
+		"omega",
+		"onion",
+		"johnny-five"
+	],
+	"author": "Rudá Cunha <ruda@ruda.com.br>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rudacs/omega2-io-pro/issues"
+	},
+	"homepage": "https://github.com/rudacs/omega2-io-pro",
+	"optionalDependencies": {
+		"bluebird": "^3.4.7"
+	},
+	"devDependencies": {
+		"johnny-five": "^0.10.6"
+	}
 }
