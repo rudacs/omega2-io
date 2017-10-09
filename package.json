@@ -28,5 +28,8 @@
 	},
 	"devDependencies": {
 		"johnny-five": "^0.10.6"
+	},
+	"dependencies": {
+		"temporal": "^0.6.0"
 	}
 }
