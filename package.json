@@ -23,13 +23,7 @@
 		"url": "https://github.com/rudacs/omega2-io-pro/issues"
 	},
 	"homepage": "https://github.com/rudacs/omega2-io-pro",
-	"optionalDependencies": {
-		"bluebird": "^3.4.7"
-	},
 	"devDependencies": {
 		"johnny-five": "^0.10.6"
-	},
-	"dependencies": {
-		"temporal": "^0.6.0"
 	}
 }
